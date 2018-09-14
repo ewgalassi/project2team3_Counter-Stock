@@ -6,6 +6,9 @@ Proposal:
 Title: COUNTER STOCK
 Members: Alejandro Gonzalez, Eric Galassi, Mommin Ahmad, Spencer Vigil, Thomas Milnes 
 
+Link:
+https://hidden-fortress-38316.herokuapp.com/
+
 Quick Description: A multiplayer fight based RPG with attributes determined by real time stock prices.
 
 Detailed Process (working):
