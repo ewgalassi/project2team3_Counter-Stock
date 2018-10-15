@@ -3,7 +3,7 @@
 A multiplayer fight-based RPG with attributes determined by real time stock prices.  You can select a stock to represent the strength of your character.  That strength will be updated by the current percent change of the stock's value.  You can then choose to battle other characters.  Winning will increase the value of your portfolio, while losing with decrease it.
 
 ### How to use
-Please click the link below to access the deployed site:
+Please click this link to access the deployed site:
 https://hidden-fortress-38316.herokuapp.com/
 
 ### Contributors
